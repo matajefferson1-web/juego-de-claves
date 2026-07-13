@@ -64,4 +64,4 @@ class Contrasena:
         if not any(c in self.CARACTERES_ESPECIALES for c in self.password):
             return False
 
-        return True
+        return True 
