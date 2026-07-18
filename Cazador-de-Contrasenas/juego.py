@@ -1,7 +1,11 @@
-# ==========================================================
+#Universidad nacional abierta y a distanciaUnad
+#CUroso:Programacion
+#Fase 5 Entrega proyecto de software
+#Grupo: 213023_36
+#ELaborado : Jefferson Matabanchoy 
 # CAZADOR DE CONTRASEÑAS
 # Juego interactivo con Tkinter + Programación Orientada a Objetos
-# ==========================================================
+
 
 import tkinter as tk
 from tkinter import messagebox
@@ -389,4 +393,4 @@ if __name__ == "__main__":
 
     juego = JuegoCazador()
 
-    juego.ejecutar() 
+    juego.ejecutar()  
